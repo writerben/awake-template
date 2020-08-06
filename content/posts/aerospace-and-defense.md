@@ -74,7 +74,7 @@ At this, you will receive how to create your account with NMBI web. This will en
 
 **The key thing to do** – Get all your papers ready as fast as you can. NMBI works on the papers on first come first serve basis, and they will not start an assessment untill all your papers are in. 
 
-Assessment and Outcome
+### Assessment and Outcome
 
 Once all your papers are in, then NMBI will assess and will give you an outcome within 90 days. The decision could be
 
