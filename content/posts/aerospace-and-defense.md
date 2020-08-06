@@ -7,6 +7,8 @@ author: Jinish Rajan
 date: 2020-02-05T22:09:18.069Z
 featureImage: /uploads/nursing-vp-blog-1.jpg
 ---
+## How can I become a nurse in Ireland (Made for overseas trained nurses)
+
 Yes, you came here looking for information. Information pertaining to nursing registration and finding a job in Ireland.
 
 **If you belong to this category you can read on.**
@@ -46,7 +48,7 @@ So in a Nutshell, if you have not trained or worked as an RN in any of the above
 
 Do not apply for registration until you meet the minimum scores under the IELTS Academic Test/OET . If you make an application and don’t meet the English language competency requirements, the assessment fee is non-refundable
 
-Get your Application pack from NMBI
+### Get your Application pack from NMBI
 
 Now that you have met the language competency, the next step is to apply for an initial registration pack. Visit  NMBI to get your Overseas Registration Application Request Form.
 
@@ -57,7 +59,7 @@ This form requires you to provide:
 * Your TRF number, for Group 3 applicants only
 * Details of your Debit/Credit Card so that the assessment fee may be deducted 
 
-Overseas Registration Application Pack
+### Overseas Registration Application Pack
 
 Once the Nursing and Midwifery Board of Ireland (NMBI) processes your Overseas Registration Application Request Form and the assessment fee, you will be issued with an Overseas Registration Application Pack. You need to read and follow all the instructions within this pack carefully to avoid unnecessary delays in processing your application. This is very important.
 
