@@ -105,6 +105,7 @@ Check out their career pages and send in your CV. You can find jobs at the follo
 * [St Vincent's Hospital](https://www.stvincents.ie/careers/)
 * [Beaumont Hospital](http://www.beaumont.ie/vacancies)
 * [Mater Hospital](https://www.mater.ie/healthcare-professionals/job-opportunities/)
+* [Tallaght Hospital](https://www.tuh.ie/Careers-Education/)
 
 ##### Private Hospitals
 
