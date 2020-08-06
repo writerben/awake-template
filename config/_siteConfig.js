@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Covidification',
-  tagline: 'ജിനീഷിന്റെ ഏറ്റവും പുതിയ കണ്ടുപിടുത്തം, പൈസ വേണ്ടാ... സെർവർ വേണ്ട... ഒരു തേങ്ങയും വേണ്ട. വെബ് ചുമ്മാ അങ്ങ് ആകാശത്തിൽ തൂക്കിയിടും',
+  siteName: 'Vacancypool',
+  tagline: 'Ireland Healthcare Vacancies and information',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -67,7 +67,7 @@ export default {
   // Newsletter Subscribe
   newsletter: {
     on: true,
-    heading: 'ഇത് വർക്ക് ചെയ്താൽ 10000 യൂറോയ്ക്ക് വിൽക്കും ഞാൻ. ആരും തടയില്ല. ',
+    heading: 'Newsletter',
     btnText: 'Subscribe',
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to
