@@ -9,8 +9,10 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'Covidification',
+  tagline: 'ജിനീഷിന്റെ ഏറ്റവും പുതിയ കണ്ടുപിടുത്തം, പൈസ വേണ്ടാ... സെർവർ വേണ്ട... ഒരു തേങ്ങയും വേണ്ട. വെബ് ചുമ്മാ അങ്ങ് ആകാശത്തിൽ തൂക്കിയിടും. 
+
+',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
