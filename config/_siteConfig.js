@@ -10,9 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Covidification',
-  tagline: 'ജിനീഷിന്റെ ഏറ്റവും പുതിയ കണ്ടുപിടുത്തം, പൈസ വേണ്ടാ... സെർവർ വേണ്ട... ഒരു തേങ്ങയും വേണ്ട. വെബ് ചുമ്മാ അങ്ങ് ആകാശത്തിൽ തൂക്കിയിടും. 
-
-',
+  tagline: 'ജിനീഷിന്റെ ഏറ്റവും പുതിയ കണ്ടുപിടുത്തം, പൈസ വേണ്ടാ... സെർവർ വേണ്ട... ഒരു തേങ്ങയും വേണ്ട. വെബ് ചുമ്മാ അങ്ങ് ആകാശത്തിൽ തൂക്കിയിടും',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
