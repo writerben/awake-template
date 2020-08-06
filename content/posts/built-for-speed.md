@@ -15,6 +15,14 @@ The JAM stack is a way of building websites that compile down basically to html,
 
 ## Nuxt.js
 
+<!--StartFragment-->
+
+ഗ്ലോബൽ ഡെസ്ക് : കൊറോണ വൈറസ് സംബന്ധിച്ച തെറ്റായ വിവരങ്ങള്‍ പ്രചരിപ്പിച്ചതിന് പ്രസിഡന്റ് ഡൊണാള്‍ഡ് ട്രംപിനെതിരെ ബുധനാഴ്ച ഫേസ്ബുക്കും ട്വിറ്ററും അസാധാരണമായ നടപടി സ്വീകരിച്ചു. തെറ്റിദ്ധാരണയുണ്ടാക്കുന്ന വിവരങ്ങള്‍ ഔദ്യോഗിക അക്കൗണ്ട് വഴി പ്രചരിപ്പിച്ചത് തങ്ങളുടെ ചട്ടങ്ങളുടെ ലംഘനമാണെന്ന് വ്യക്തമാക്കിയാണ് ഫേസ് ബുക്കും ട്വീറ്ററും വീഡിയോ പോസ്റ്റുകള്‍ നീക്കം ചെയ്തത്.
+
+ഫോക്‌സ് ന്യൂസിന് നല്‍കിയ വീഡിയോ അഭിമുഖത്തിലെ ഭാഗമായിരുന്നു ട്രംപ് ഫേസ് ബുക്കിലും ട്വീറ്ററിലും പോസ്റ്റ് ചെയ്തത്. കൊവിഡ് പ്രതിരോധിക്കുന്നതിന് കുട്ടികള്‍ക്ക് പ്രത്യേക പ്രതിരോധ ശേഷിയുണ്ടെന്നായിരുന്നു അഭിമുഖത്തിലെ ട്രംപിന്റെ വാദം. ഫേസ് ബുക്ക് പോസ്റ്റുകള്‍ നീക്കം ചെയ്തപ്പോള്‍ ട്വിറ്റര്‍ അവ നീക്കം ചെയ്യാന്‍ ട്രംപിനോട് ആവശ്യപ്പെടുകയായിരുന്നു. നീക്കം ചെയ്യുന്നതുവരെ മറ്റ് ട്വീറ്റുകള്‍ ചെയ്യുന്നതില്‍നിന്ന് വിലക്കുകയും ചെയ്തു.
+
+<!--EndFragment-->
+
 [Nuxt.js](https://www.nuxtjs.org) has the ability to generate static sites that are served on the JAM Stack, building plain old html files... but those html files are super-powered with Vue.js. What this means, is that pages have content "hard coded" into the html files for top-rate SEO scores but after initial page load behave as a traditional SPA with smooth page transitions, minimal data served between requests, etc. This means Awake is fast both on both the first page visitors hit and even faster on subsequent pages.
 
 ## Purge CSS
