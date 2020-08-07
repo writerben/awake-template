@@ -61,7 +61,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'vacancypool' // 'blog-danielkelly-io'
+    siteShortName: 'vacancypool' // 'Vacancypool'
   },
 
   // Newsletter Subscribe
