@@ -61,7 +61,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'vacancypool' // 'Vacancypool'
+    siteShortName: 'vacancypool' // 'Vacancypool comments'
   },
 
   // Newsletter Subscribe
